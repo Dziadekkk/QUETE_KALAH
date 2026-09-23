@@ -1,6 +1,11 @@
 IF
-OnCreation()
-GlobalGT("PI#Mother","GLOBAL",0)
-THEN RESPONSE #100
-DestroySelf()
+    OnCreation()
+    OR(2)
+        Global("RescuedMother","GLOBAL",1)
+        Global("PI#Mother","GLOBAL",1)
+    AreaCheck("PI#604")
+THEN
+    RESPONSE #100
+        DestroySelf()
 END
+

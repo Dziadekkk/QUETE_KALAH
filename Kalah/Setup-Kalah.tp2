@@ -2,14 +2,14 @@ BACKUP ~Kalah\backup~
 
 AUTHOR ~Picollo~ NO_IF_EVAL_BUG
 
-VERSION ~v4.1~
+VERSION ~v5.0~
 
 AUTO_TRA ~Kalah/LANGUAGE/%s~
 
 LANGUAGE 
-         ~Polish~
-         ~polish~
-         ~Kalah/Language/Polish/setup.tra~
+         ~Polski BG2EE/EET~
+         ~PolishEE~
+         ~Kalah/Language/PolishEE/setup.tra~	
 LANGUAGE 
          ~Francais~
          ~French~

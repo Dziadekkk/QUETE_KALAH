@@ -53,7 +53,7 @@ END
 
 IF~Global("PI#Princessa","PI#604",1) ~ THEN BEGIN 6
 SAY @23
-IF~!Global("PI#Mother","GLOBAL",1)Global("PI#Mother","GLOBAL",2)~ THEN REPLY @24 EXIT
+IF~!Global("PI#Mother","GLOBAL",1) !Global("PI#Mother","GLOBAL",2)~ THEN REPLY @24 EXIT
 IF~Global("PI#Mother","GLOBAL",1)~ THEN REPLY @25 GOTO 7
 IF~Global("PI#Mother","GLOBAL",2)~ THEN REPLY @26 GOTO  10
 END
@@ -121,21 +121,22 @@ END
 
 IF~~ THEN BEGIN 17
 SAY@50
-IF~~THEN REPLY @51 DO~ SetGlobal("PI#Princessa","GLOBAL",10) AddJournalEntry(@52,QUEST)~ EXIT
-IF~~THEN REPLY @53 DO~ SetGlobal("PI#Princessa","GLOBAL",10) AddJournalEntry(@52,QUEST)~ EXIT
+IF~~THEN REPLY @51 DO~SetGlobal("PI#Princessa","GLOBAL",10) AddJournalEntry(@52,INFO) Enemy() Attack(NearestEnemyOf(Myself))~ EXIT
+IF~~THEN REPLY @53 DO~SetGlobal("PI#Princessa","GLOBAL",10) AddJournalEntry(@52,INFO) Enemy() Attack(NearestEnemyOf(Myself))~ EXIT
 END
 
 IF~~ THEN BEGIN 18
 SAY@54    
-IF~~THEN REPLY @51 DO~ SetGlobal("PI#Princessa","GLOBAL",10) AddJournalEntry(@55,QUEST)~ EXIT
-IF~~THEN REPLY @53 DO~ SetGlobal("PI#Princessa","GLOBAL",10) AddJournalEntry(@55,QUEST)~ EXIT
+IF~~THEN REPLY @51 DO~SetGlobal("PI#Princessa","GLOBAL",10) AddJournalEntry(@55,INFO) Enemy() Attack(NearestEnemyOf(Myself))~ EXIT
+IF~~THEN REPLY @53 DO~SetGlobal("PI#Princessa","GLOBAL",10) AddJournalEntry(@55,INFO) Enemy() Attack(NearestEnemyOf(Myself))~ EXIT
 END
 
 IF~~ THEN BEGIN 19
 SAY@56
-IF~~THEN REPLY @51 DO~ SetGlobal("PI#Princessa","GLOBAL",10) AddJournalEntry(@55,QUEST)~ EXIT
-IF~~THEN REPLY @53 DO~ SetGlobal("PI#Princessa","GLOBAL",10)  AddJournalEntry(@55,QUEST)~ EXIT
+IF~~THEN REPLY @51 DO~SetGlobal("PI#Princessa","GLOBAL",10) AddJournalEntry(@55,INFO) Enemy() Attack(NearestEnemyOf(Myself))~ EXIT
+IF~~THEN REPLY @53 DO~SetGlobal("PI#Princessa","GLOBAL",10) AddJournalEntry(@55,INFO) Enemy() Attack(NearestEnemyOf(Myself))~ EXIT
 END
+
 
 //////////////////////////////////////////////////////////Dodatkowe istoty///////////////////////////////////////////////////////////////////
 BEGIN PI#AER1
@@ -161,44 +162,44 @@ IF~NumTimesTalkedTo(0) Global("PI#Princessa","PI#604",1)~ THEN BEGIN PI#0
 SAY@59
 IF~~ THEN REPLY @60 GOTO PI#1
 IF~~ THEN REPLY @61 GOTO PI#2
-IF~~ THEN REPLY @62 GOTO 2
+IF~~ THEN REPLY @62 GOTO PI#2
 END
 
-IF~~ THEN BEGIN PI#1
-SAY@63
-IF~~ THEN REPLY @64 GOTO PI#3
-IF~~ THEN REPLY @65 DO~SetGlobal("PI#Mother","GLOBAL",1)AddJournalEntry(@66,QUEST) Enemy()Attack(NearestEnemyOf(Myself))~EXIT
-IF~~ THEN REPLY @67 GOTO PI#2
+IF ~True()~ THEN BEGIN PI#1
+  SAY @63
+  IF ~~ THEN REPLY @64 GOTO PI#3
+  IF ~~ THEN REPLY @65 DO ~SetGlobal("PI#Mother","GLOBAL",1) AddJournalEntry(@66,QUEST) Enemy() Attack(NearestEnemyOf(Myself))~ EXIT
+  IF ~~ THEN REPLY @67 GOTO PI#2
 END
 
-IF~~ THEN BEGIN PI#2
-SAY@68
-IF~~ THEN REPLY @69DO~SetGlobal("PI#Mother","GLOBAL",1)AddJournalEntry(@66,QUEST) Enemy()Attack(NearestEnemyOf(Myself))~EXIT
-IF~~ THEN REPLY @70 GOTO PI#4
+IF ~~ THEN BEGIN PI#2
+  SAY @68
+  IF ~~ THEN REPLY @69 DO ~SetGlobal("PI#Mother","GLOBAL",1) AddJournalEntry(@66,QUEST) Enemy() Attack(NearestEnemyOf(Myself))~ EXIT
+  IF ~~ THEN REPLY @70 GOTO PI#4
 END
 
-IF~~ THEN BEGIN PI#3
-SAY@71
-IF~~ THEN REPLY @72 GOTO PI#2
-IF~~ THEN REPLY @73 DO~SetGlobal("PI#Mother","GLOBAL",1)AddJournalEntry(@66,QUEST) Enemy()Attack(NearestEnemyOf(Myself))~EXIT
+IF ~~ THEN BEGIN PI#3
+  SAY @71
+  IF ~~ THEN REPLY @72 GOTO PI#2
+  IF ~~ THEN REPLY @73 DO ~SetGlobal("PI#Mother","GLOBAL",1) AddJournalEntry(@66,QUEST) Enemy() Attack(NearestEnemyOf(Myself))~ EXIT
 END
 
-IF~~ THEN BEGIN PI#4
-SAY@74
-IF~~ THEN REPLY @75 GOTO PI#5
-IF~~ THEN REPLY @76DO~SetGlobal("PI#Mother","GLOBAL",1)AddJournalEntry(@66,QUEST) Enemy()Attack(NearestEnemyOf(Myself))~EXIT
+IF ~~ THEN BEGIN PI#4
+  SAY @74
+  IF ~~ THEN REPLY @75 GOTO PI#5
+  IF ~~ THEN REPLY @76 DO ~SetGlobal("PI#Mother","GLOBAL",1) AddJournalEntry(@66,QUEST) Enemy() Attack(NearestEnemyOf(Myself))~ EXIT
 END
 
-IF~~ THEN  BEGIN PI#5
-SAY@77
-IF~~ THEN REPLY @78 DO~SetGlobal("PI#Mother","GLOBAL",2)AddJournalEntry(@79,QUEST)~ EXIT
-IF~~ THEN REPLY @80 DO~SetGlobal("PI#Mother","GLOBAL",1)AddJournalEntry(@66,QUEST) Enemy()Attack(NearestEnemyOf(Myself))~EXIT
+IF ~~ THEN BEGIN PI#5
+  SAY @77
+  IF ~~ THEN REPLY @78 DO ~SetGlobal("PI#Mother","GLOBAL",2) AddJournalEntry(@79,QUEST)~ EXIT
+  IF ~~ THEN REPLY @80 DO ~SetGlobal("PI#Mother","GLOBAL",1) AddJournalEntry(@66,QUEST) Enemy() Attack(NearestEnemyOf(Myself))~ EXIT
 END
 
-IF~ Global("PI#Mother","GLOBAL",2)~ THEN BEGIN PI#6
-SAY@81
-IF~~ THEN REPLY @82 EXIT
-IF~~ THEN REPLY @83 DO ~SetGlobal("PI#Mother","GLOBAL",1) Enemy()AddJournalEntry(@66,QUEST) EraseJournalEntry(@79)Attack(NearestEnemyOf(Myself))~EXIT
+IF ~Global("PI#Mother","GLOBAL",2)~ THEN BEGIN PI#6
+  SAY @81
+  IF ~~ THEN REPLY @82 EXIT
+  IF ~~ THEN REPLY @83 DO ~SetGlobal("PI#Mother","GLOBAL",1) EraseJournalEntry(@79) AddJournalEntry(@66,QUEST) Enemy() Attack(NearestEnemyOf(Myself))~ EXIT
 END
 
 IF~AreaCheck("PI#604") NumTimesTalkedTo(0) GlobalLT("PI#Princessa","PI#604",1)~ THEN BEGIN PI#7
@@ -209,4 +210,5 @@ END
 SET_WEIGHT KFTOWN01 PI#6 #-1
 SET_WEIGHT KFTOWN01 PI#7 #-1
 SET_WEIGHT KFTOWN01 PI#0 #-1
+SET_WEIGHT PI#SLAV1 16 #-1
 
