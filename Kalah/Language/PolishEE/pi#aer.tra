@@ -1,24 +1,24 @@
 @0    = ~Witaj.~
-@1    = ~Pozwól, mi również przywitać cię w królestwie Kalaha. Ukończyłeś próbę rozumu Teraz czas na próbę męstwa.~~ Pozwól, mi również przywitać cię w królestwie Kalaha. Ukończyłaś próbę rozumu Teraz czas na próbę męstwa.~
+@1    = ~Pozwól mi również przywitać cię w królestwie Kalaha. Ukończyłeś próbę rozumu Teraz czas na próbę męstwa.~~ Pozwól, mi również przywitać cię w królestwie Kalaha. Ukończyłaś próbę rozumu Teraz czas na próbę męstwa.~
 @2    = ~Spójrz, oto przed tobą stoją dwa demony. A przynajmniej wydają się być demonami, prawda?~
 @3    = ~Jeden z nich jest prawdziwym demonem, który jest w stanie zabić nas wszystkich bez większego problemu.~
-@4    = ~Drugi demon nie jest demonem. To Księżniczka którą będziesz miał okazję wyzwolić spod zaklęcia, które nałożył na nią Kalah.~~Drugi demon nie jest demonem. To Księżniczka którą będziesz miała okazję wyzwolić spod zaklęcia, które nałożył na nią Kalah.~
+@4    = ~Drugi demon nie jest demonem. To Księżniczka, którą będziesz miał okazję wyzwolić spod zaklęcia, które nałożył na nią Kalah.~~Drugi demon nie jest demonem. To Księżniczka którą będziesz miała okazję wyzwolić spod zaklęcia, które nałożył na nią Kalah.~
 @5    = ~Co mam zrobić?~
 @6    = ~Dlaczego Kalah przemienił Księżniczkę w demona?~
 @7    = ~To głupie... Takie rzeczy zdarzają się tylko w bajkach. Nie mam zamiaru brać w tym udziału.~
 @8    = ~Kalah przewidział, iż jesteś osobą prawą i szlachetną. Dlatego wpuścił cię do swego królestwa.~
 @9    = ~Pierwszym zadaniem będzie odzyskanie klucza, który umożliwi uwolnienie księżniczki. Klucz znajduje się w posiadaniu potwora.~
-@10   = ~Dzięki dobroci Kalaha, nie będziesz musiał zmierzyć się ze smokiem. Lecz potwora, który posiadł klucz musisz znaleźć na własną rękę.~~Dzięki dobroci Kalaha, nie będziesz musiała zmierzyć się ze smokiem. Lecz potwora, który posiadł klucz musisz znaleźć na własną rękę.~
+@10   = ~Dzięki dobroci Kalaha nie będziesz musiał zmierzyć się ze smokiem. Lecz potwora, który posiadł klucz, musisz znaleźć na własną rękę.~~Dzięki dobroci Kalaha nie będziesz musiała zmierzyć się ze smokiem. Lecz potwora, który posiadł klucz, musisz znaleźć na własną rękę.~
 @11   = ~Jak wygląda ów klucz?~
 @12   = ~W takim razie ruszę, by zniszczyć potwora.~
 @13   = ~Zbadaj Namiot Cyrkowy.
-W kolejnym pomieszczeniu napotkaliśmy dwa demony, i kobietę, która znowu powoływała się na Kalaha. Powiedziała nam, że jeden z tych demonów jest w rzeczywistości księżniczką, a my mozemy ją uratować. Zgodziliśmy się pomóc, więc polecono nam zdobyć klucz będący w posiadaniu potwora.~
-@14   = ~Nie kwestionuj decyzji Kalaha. Z jego rozkazu ten, który uwolni księżniczkę spod wpływu zaklęcia, będzie mógł wziąć ją za żonę~~ Nie kwestionuj decyzji Kalaha. Z jego rozkazu ta osoba, która uwolni księżniczkę spod wpływu zaklęcia, będzie mógł wziąć ją za żonę. Jako, że jesteś kobietą, i zapewne nie gustujesz w małżeństwach z księżniczkami, Kalah nagrodzi cię połową królestwa.~
-@15   = ~Po prostu wydaje mi się to trochę nielogiczne. Czemu wielki, i wspaniały Kalah przetrzymuje tu tę księżniczkę?~
+W kolejnym pomieszczeniu napotkaliśmy dwa demony i kobietę, która znowu powoływała się na Kalaha. Powiedziała nam, że jeden z tych demonów jest w rzeczywistości księżniczką, a my możemy ją uratować. Zgodziliśmy się pomóc, więc polecono nam zdobyć klucz będący w posiadaniu potwora.~
+@14   = ~Nie kwestionuj decyzji Kalaha. Z jego rozkazu ten, który uwolni księżniczkę spod wpływu zaklęcia, będzie mógł wziąć ją za żonę~~ Nie kwestionuj decyzji Kalaha. Z jego rozkazu ta osoba, która uwolni księżniczkę spod wpływu zaklęcia, będzie mogła wziąć ją za żonę. Jako, że jesteś kobietą i zapewne nie gustujesz w małżeństwach z księżniczkami, Kalah nagrodzi cię połową królestwa.~
+@15   = ~Po prostu wydaje mi się to trochę nielogiczne. Czemu wielki i wspaniały Kalah przetrzymuje tu tę księżniczkę?~
 @16   = ~Dobra, dobra, nie narzekam już więcej... Co mam zrobić?~
-@17   = ~Dość, nie pozwolę na to, byś kalał imię Wielkiego Kalaha, kwestionując jego decyzje.Czas zapłacić za swoje słowa.~~Dość, nie pozwolę na to, byś kalała imię Wielkiego Kalaha, kwestionując jego decyzje.Czas zapłacić za swoje słowa.~
+@17   = ~Dość, nie pozwolę na to, byś kalał imię Wielkiego Kalaha, kwestionując jego decyzje. Czas zapłacić za swoje słowa.~~Dość, nie pozwolę na to, byś kalała imię Wielkiego Kalaha, kwestionując jego decyzje. Czas zapłacić za swoje słowa.~
 @18   = ~Zbadaj Namiot Cyrkowy.
-W kolejnym pomieszczeniu napotkaliśmy dwa demony, i kobietę, która znowu powoływała się na Kalaha. Powiedziała nam, że jeden z tych demonów jest w rzeczywistości księżniczką, a my mozemy ją uratować. Kiedy stwierdziliśmy, że to głupie, demony i ich strażnik zmienili się w cienie, i zaatakowali nas. Czuję się jak w jakiejś pokręconej wersji jednej z baśni, które opowiadałmi Gorion.~
+W kolejnym pomieszczeniu napotkaliśmy dwa demony i kobietę, która znowu powoływała się na Kalaha. Powiedziała nam, że jeden z tych demonów jest w rzeczywistości księżniczką, a my mozemy ją uratować. Kiedy stwierdziliśmy, że to głupie, demony i ich strażnik zmienili się w cienie i zaatakowali nas. Czuję się jak w jakiejś pokręconej wersji jednej z baśni, które opowiadałmi Gorion.~
 @19   = ~Jeżeli uważasz, że nie dasz rady samodzielnie znaleźć tego klucza, nie ma sensu, żebyś próbował. Lepiej odejdź, skąd przyszedłeś.~~ Jeżeli uważasz, że nie dasz rady samodzielnie znaleźć tego klucza, nie ma sensu, żebyś próbowała. Lepiej odejdź, skąd przyszłaś.~
 @20   = ~Zaczekaj, poradzę sobie. Ruszam, aby zabić tego potwora.~
 @21   = ~Próbujesz wybadać, czy to Księżniczka, czy demon? Niestety, ta istota nic ci nie powie. Mocą zaklęcia Kalaha znajduje się w głębokim śnie.~
@@ -28,9 +28,9 @@ W kolejnym pomieszczeniu napotkaliśmy dwa demony, i kobietę, która znowu powo
 @25   = ~Pokonałem potwora, lecz ten nie miał przy sobie żadnego klucza.~~Pokonałam potwora, lecz ten nie miał przy sobie żadnego klucza.~
 @26   = ~Napotkałem pająka, lecz twierdził on, że nie jest on potworem.~~Napotkałam pająka, lecz twierdził on, że nie jest on potworem.~
 @27   = ~Czy czegoś cię to nauczyło?~
-@28   = ~Że Kalah jest kłamcą, i nie należy wierzyć jego słowom?~
-@29   = ~Że klucz od początku znajdował się w moich rękach? Kluczem jest posłuszeństwo wobec Kalaha?~
-@30   = ~Kluczem miało być oczyszczenie świata z potworów? Miałem oczyścić królestwo Kalaha, jeżeli niemożliwe jest oczyszczenie całego świata?~~Kluczem miało być oczyszczenie świata z potworów? Miałam oczyścić królestwo Kalaha, jeżeli niemożliwe jest oczyszczenie całego świata?~
+@28   = ~Że Kalah jest kłamcą i nie należy wierzyć jego słowom...~
+@29   = ~Że klucz od początku znajdował się w moich rękach? Kluczem jest posłuszeństwo wobec Kalaha...~
+@30   = ~Kluczem miało być oczyszczenie świata z potworów? Miałem oczyścić królestwo Kalaha, jeżeli niemożliwe jest oczyszczenie całego świata...~~Kluczem miało być oczyszczenie świata z potworów? Miałam oczyścić królestwo Kalaha, jeżeli niemożliwe jest oczyszczenie całego świata...~
 @31   = ~Najpierw ja cię o coś spytam. Pająk twierdził, że w rzeczywistości nie jest pająkiem, czy to prawda?~
 @32   = ~Czegoś cię to jednak nauczyło. Brawo. Czas na kolejne zadanie. Jeżeli jesteś w stanie uwolnić księżniczkę, musisz najpierw się dowiedzieć, która z tych istot jest prawdziwą księżniczką, a która demonem.~
 @33   = ~Domyślam się, że Kalah znowu mi nie pomoże?~
@@ -43,24 +43,24 @@ W kolejnym pomieszczeniu napotkaliśmy dwa demony, i kobietę, która znowu powo
 @40   = ~Coś mi się tu po prostu nie zgadza.~
 @41   = ~Skądże znowu, pomyślałem tylko, że może to nie o tego potwora chodziło.~~Skądże znowu, pomyślałam tylko, że może to nie o tego potwora chodziło.~
 @42   = ~Kalah ma swój cel w wystawianiu cię na ciągłe próby. Rusz tedy, by zdobyć wiedzę, która z tych istot jest księżniczką.~
-@43   = ~W królestwie Kalaha przebywają ci, którzy wiedzą. Odnajdź ich, i przekonaj ich do pomocy. Następnie, kiedy już uzyskasz wiedzę, powróć tu.~
+@43   = ~W królestwie Kalaha przebywają ci, którzy wiedzą. Odnajdź ich i przekonaj ich do pomocy. Następnie, kiedy już uzyskasz wiedzę, powróć tu.~
 @44   = ~Zbadaj Namiot Cyrkowy.
-Odnaleźliśmy klucz (Który w rzeczywistości nie był kluczem.), ale to nie koniec prób. Strażniczka poleciła nam dowiedzieć się, w jaki sposób można rozpoznać prawdziwą księżniczkę. Nie powiedziała tylko JAK mamy się tego dowiedzieć.~
+Odnaleźliśmy klucz (który w rzeczywistości nie był kluczem.), ale to nie koniec prób. Strażniczka poleciła nam dowiedzieć się, w jaki sposób można rozpoznać prawdziwą księżniczkę. Nie powiedziała tylko JAK mamy się tego dowiedzieć.~
 @45   = ~Rozwiązałeś pierwsze zadanie. Pozbawiłeś kolejnych śmiałków możliwości zmierzenia się z potworem. Teraz zginiesz, a po śmierci staniesz się nieumarłą istotą, która będzie przeciwnikiem dla śmiałków.~~ Rozwiązałaś pierwsze zadanie. Pozbawiłaś kolejnych śmiałków możliwości zmierzenia się z potworem. Teraz zginiesz, a po śmierci staniesz się nieumarłą istotą, która będzie przeciwnikiem dla śmiałków.~
 @46   = ~Zbadaj Namiot Cyrkowy.
-Kiedy stwierdziliśmy, że próby zorganizowane przez Kalaha są głupie, i że nie mamy zamiaru brać w tym udziału, strażniczka powiedziała nam, że to my, kiedy umrzemy, będziemy potworem dla następnych śmiałków. Po czym zmieniła się w cień, i zaatakowała nas.~
+Kiedy stwierdziliśmy, że próby zorganizowane przez Kalaha są głupie i że nie mamy zamiaru brać w tym udziału, strażniczka powiedziała nam, że to my, kiedy umrzemy, będziemy potworem dla następnych śmiałków. Po czym zmieniła się w cień i zaatakowała nas.~
 @47   = ~Cóż więc chcesz powiedzieć?~
-@48   = ~Decyzja należy do ciebie. Idź, i pokonaj bestię, którą uznasz za właściwą, a następnie powróć tu z kluczem.~
-@49   = ~Słyszałam krzyki niewinnych dobiegające z odddali. Zabiłeś ich? Prawda? Wiedza niezbędna do ocalenia księżniczki przepadła.~~Słyszałam krzyki niewinnych dobiegające z odddali. Zabiłaś ich? Prawda? Wiedza niezbędna do ocalenia księżniczki przepadła.~
-@50   = ~Sprzymierzasz się z potworami, i mordujesz wieśniaków? Jeżeli zdecydowałeś się odwrócić sens bajki, to nadszedł czas, żeby księżniczka pokonała księcia, czyż nie?~~ Sprzymierzasz się z potworami, i mordujesz wieśniaków? Jeżeli zdecydowałaś się odwrócić sens bajki, to nadszedł czas, żeby księżniczka pokonała główną bohaterkę, czyż nie?~
+@48   = ~Decyzja należy do ciebie. Idź i pokonaj bestię, którą uznasz za właściwą, a następnie powróć tu z kluczem.~
+@49   = ~Słyszałam krzyki niewinnych dobiegające z oddali. Zabiłeś ich? Prawda? Wiedza niezbędna do ocalenia księżniczki przepadła.~~Słyszałam krzyki niewinnych dobiegające z odddali. Zabiłaś ich? Prawda? Wiedza niezbędna do ocalenia księżniczki przepadła.~
+@50   = ~Sprzymierzasz się z potworami i mordujesz wieśniaków? Jeżeli zdecydowałeś się odwrócić sens bajki, to nadszedł czas, żeby księżniczka pokonała księcia, czyż nie?~~ Sprzymierzasz się z potworami i mordujesz wieśniaków? Jeżeli zdecydowałaś się odwrócić sens bajki, to nadszedł czas, żeby księżniczka pokonała główną bohaterkę, czyż nie?~
 @51   = ~Ale...~
 @52   = ~Zbadaj Namiot Cyrkowy.
-Potwór, który nie jest potworem nadal żyje, a wieśniacy, którzy zaatakowali nas, zginęli. Kiedy strażniczka się o tym dowiedziała, zaczęła coś krzyczeć, o odwracaniu sensu bajki, i zaatakowała nas.~
+Potwór, który nie jest potworem nadal żyje, a wieśniacy, którzy zaatakowali nas, zginęli. Kiedy strażniczka się o tym dowiedziała, zaczęła coś krzyczeć, o odwracaniu sensu bajki i zaatakowała nas.~
 @53   = ~Przecież...~
 @54   = ~Kalah przekonał się, że jedyną rzeczą na której ci zależy, są morderstwa. Jednakowoż nie można pozwolić, byś mordował wszystko we włościach Kalaha. Czeka cię kara.~~ Kalah przekonał się, że jedyną rzeczą na której ci zależy, są morderstwa. Jednakowoż nie można pozwolić, byś mordowała wszystko we włościach Kalaha. Czeka cię kara.~
 @55   = ~Zbadaj Namiot Cyrkowy.
-Potwór, który nie jest potworem nie żyje, ale wieśniacy, którzy zaatakowali nas, również zginęli. Kiedy strażniczka się o tym dowiedziała, zaczęła coś krzyczeć, o karze, która nas czeka, i zaatakowała nas.~
-@56   = ~Przyszedłeś tu, i od razu zacząłeś mordować. Kalah nie może ci na to pozwolić. Czeka cię kara.~~ Przyszłaś tu, i od razu zaczęłaś mordować. Kalah nie może ci na to pozwolić. Czeka cię kara.~
+Potwór, który nie jest potworem nie żyje, ale wieśniacy, którzy zaatakowali nas, również zginęli. Kiedy strażniczka się o tym dowiedziała, zaczęła coś krzyczeć, o karze, która nas czeka i zaatakowała nas.~
+@56   = ~Przyszedłeś tu i od razu zacząłeś mordować. Kalah nie może ci na to pozwolić. Czeka cię kara.~~ Przyszłaś tu i od razu zaczęłaś mordować. Kalah nie może ci na to pozwolić. Czeka cię kara.~
 @57   = ~(Demon zdaje się nie zauważać twojej obecności. Zwraca się za to do ciebie istota, która przywitała cię po przybyciu tutaj.)~
 @58   = ~My ty nie lubić. My bić.~
 @59   = ~Nie, proszę, nie krzywdź mnie.~
@@ -68,7 +68,7 @@ Potwór, który nie jest potworem nie żyje, ale wieśniacy, którzy zaatakowali
 @61   = ~Oddaj mi klucz, którego pilnujesz, a pozwolę ci żyć.~
 @62   = ~Przyszedłem tutaj, żeby zabrać z twoich wnętrzności klucz, który jest mi potrzebny.~
 @63   = ~Ja... ja nie jestem potworem...~
-@64   = ~Jesteś olbrzymim pająkiem,takim samym jak te, które napotkałem na swojej drodze... Czym jesteś, jeśli nie potworem?~~Jesteś olbrzymim pająkiem,takim samym jak te, które napotkałam na swojej drodze... Czym jesteś, jeśli nie potworem?~
+@64   = ~Jesteś olbrzymim pająkiem, takim samym jak te, które napotkałem na swojej drodze... Czym jesteś, jeśli nie potworem?~~Jesteś olbrzymim pająkiem,takim samym jak te, które napotkałam na swojej drodze... Czym jesteś, jeśli nie potworem?~
 @65   = ~Dość tego. Umrzesz, a ja zdobędę klucz.~
 @66   = ~Zbadaj Namiot Cyrkowy.
 Zabiliśmy potwora. Niestety, nie miał on żadnego klucza. Może powinniśmy porozmawiać o tym ze strażniczką?~
@@ -85,7 +85,7 @@ Zabiliśmy potwora. Niestety, nie miał on żadnego klucza. Może powinniśmy po
 @77   = ~Jedynym potworem, jaki tu przebywa jest sprawca tego wszystkiego. Innych potworów nie jestem w stanie wskazać.~
 @78   = ~Cóż, dzięki i za te słowa. Żegnaj.~
 @79   = ~Zbadaj Namiot Cyrkowy.
-Spotkaliśmy potwora. Ten, nie dość, że nie zaatakował nas, to jeszcze zaczął błagać nas o oszczędzenie jego życia, i zaklinał się, że w rzeczywistości nie jest potworem. Postanowiliśmy darować mu życie. To wszystko robi się coraz dziwniejsze.~
+Spotkaliśmy potwora. Ten, nie dość, że nie zaatakował nas, to jeszcze zaczął błagać nas o oszczędzenie jego życia i zaklinał się, że w rzeczywistości nie jest potworem. Postanowiliśmy darować mu życie. To wszystko robi się coraz dziwniejsze.~
 @80   = ~Chyba jednak sprawdzę, czy przy twoim truchle nie znajdę klucza.~
 @81   = ~To.. To znowu ty... Czego tu szukasz?~
 @82   = ~Nic, tylko tędy przechodziłem.~~Nic, tylko tędy przechodziłam.~
