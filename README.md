@@ -5,7 +5,7 @@ Et attention à ce que vous dites, un accident est si vite arrivé...
 
 # KalahII
 ### Autor: Picollo
-**Link do modyfikacji:** [Forum Athkatla](https://cob-bg.pl)
+**Link do modyfikacji:** (http://athkatla.cob-bg.pl/viewtopic.php?p=84091&highlight=#84091)
 
 ## Opis ogólny
 
