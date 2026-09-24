@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KalahII. 
 Ulepszenie zadania w cyrku
 
@@ -5,6 +6,8 @@ Ta modyfikacja ulepsza (utrudnia) zadanie w cyrku. Nie liczcie na to, że ukońc
 I uważajcie na to, co mówicie, bo o wypadek nietrudno...
 
 
+=======
+>>>>>>> 0c146e3061809d24baecddbbac34ca2cd9b0aacc
 # Amélioration de la quête du cirque  
 
 Ce mod améliore (complique) la quête du cirque. Maintenant n'escomptez pas la compléter à peine sorti du donjon d'Irenicus. Revenez plutôt plus tard, quand vous avez un groupe complet et bien équipé.  
